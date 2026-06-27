@@ -1,0 +1,10 @@
+aws_region = "eu-central-1"
+
+vpc_id = "vpc-xxxxxxxxxxxxxxxxx"
+
+public_subnet_ids = [
+  "subnet-xxxxxxxxxxxxxxxxx",
+  "subnet-yyyyyyyyyyyyyyyyy"
+]
+
+instance_type = "t3.micro"
